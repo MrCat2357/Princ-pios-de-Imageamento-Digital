@@ -24,3 +24,18 @@ Calcule o histograma da imagem “original.png”;
 f.      Faça a segmentação
 por Limiarização (Thresholding Global) e quantifique as partes evidenciadas
 pela segmentação.
+
+--------------------------------------------------------------------------------
+Na parte teórica tínhamos as seguintes questões 
+
+1) Descreva o que é uma imagem digital, explique os termos da equação
+2) Conceitue resolução espacial, espectral e temporal
+3) Uma imagen de 2000 x 2000 pixels cobre uma região de 400x400 m²
+a) Quais são as dimensões dos pixels?
+b) Qual é a profundidade da imagem se os valores dos pixels variam 
+de 0 a 4095?
+OBS: A imagem é monocromática
+c)Outra imagem da mesma região, com pixels de 0.1x0.1 m², teria maior 
+ou menor resolução espacial? Quantos pixels teriam nesta imagem?
+4) Explique a diferença entre imagem digital e imagem analógica
+5) Explique com exemplos a diferença entre um sistema de cores aditivo e um subtrativo
