@@ -1,0 +1,26 @@
+1.    
+(valor=4,0) Faça um algoritmo no
+Colab de acordo com as instruções abaixo: 
+
+a.    
+Abrir e carregar a imagem disponibilizada (original.png);
+
+b.    
+Listar a seguintes propriedades dessa imagem: tamanho,
+valores máximos, valores mínimos e média de intensidade;
+
+c.    
+Deslocar essa imagem 30 pixels para direita e 30 para baixo e
+salvar imagem como (rot_01.png).
+
+d.    
+Separar os canais da imagem “original.png” salvar uma imagem
+no canal R (originalR.png), outra no G (originalG.png)e outra no
+B(originalB.png).
+
+e.    
+Calcule o histograma da imagem “original.png”;
+
+f.      Faça a segmentação
+por Limiarização (Thresholding Global) e quantifique as partes evidenciadas
+pela segmentação.
